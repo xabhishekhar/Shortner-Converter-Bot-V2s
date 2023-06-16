@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am Tulinks.one, Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
+I Am Tulinks.one, Bulk Link Converter. I Can Convert Links Directly From Your tulinks Account,
     
 1. Go To 👉 https://Tulinks.one/member/tools/api  
 2. Than Copy API Key
@@ -22,7 +22,7 @@ If You Want Any **Other Shortner** Link Converter Bot Instead Of Tulinks than **
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am ShortnerFly, Bulk Link Converter Bot. I Can Convert Links Directly From Your Tulinks Account,**
+I Am tulinks, Bulk Link Converter Bot. I Can Convert Links Directly From Your Tulinks Account,**
     
 1. Go To 👉 https://Tulinks.one/member/tools/api  
 2. Than **Copy API** Key
